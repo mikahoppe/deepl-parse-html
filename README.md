@@ -11,7 +11,7 @@ Node.js tool to translate html documents using the DeepL API. Requires a DeepL A
 
 **Usage**
 
--   Copy the original (untranslated) HTML-file into the `src` folder.
--   Configure the script by updating the local constants in `translate.js` (line 5-13).
+-   Copy the original (untranslated) HTML-file into the `src` folder
+-   Configure the script by updating the local constants in `translate.js` (lines 5-13)
 -   Run `node translate.js`
--   The translated HTML-file can be found in the destinated `bin` folder.
+-   The translated HTML-file can be found in the destinated `bin` folder
