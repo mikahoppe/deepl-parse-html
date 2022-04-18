@@ -1,0 +1,9 @@
+{
+	"type": "module",
+	"dependencies": {
+		"file-system": "^2.2.2",
+		"html-minifier": "^4.0.0",
+		"node-fetch": "^3.2.3",
+		"read-file": "^0.2.0"
+	}
+}
